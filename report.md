@@ -1,6 +1,6 @@
-#Отчет о тестировании приложения Credit card number validator
+# Отчет о тестировании приложения Credit card number validator
 
-##Краткое описание
+## Краткое описание
 
 11.08.2021 было проведено тестирование методом белого ящика приложения Credit card number validator
 
